@@ -1,0 +1,35 @@
+
+# Node.js dependencies are managed through package.json
+# See package.json for the complete list of dependencies
+
+# Development Tools
+typescript@5.6.3
+tsx@4.19.1
+vite@5.4.14
+esbuild@0.25.0
+
+# Frontend
+react@18.3.1
+react-dom@18.3.1
+tailwindcss@3.4.14
+@tanstack/react-query@5.60.5
+
+# Backend
+express@4.21.2
+drizzle-orm@0.39.1
+@neondatabase/serverless@1.0.0
+
+# AI/ML
+@google/generative-ai
+
+# Database
+postgres@3.4.5
+drizzle-kit@0.30.4
+
+# Authentication
+passport@0.7.0
+express-session@1.18.1
+
+# Utilities
+zod@3.23.8
+date-fns@3.6.0
